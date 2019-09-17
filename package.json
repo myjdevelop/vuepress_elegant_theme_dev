@@ -1,0 +1,40 @@
+{
+  "name": "vuepress_elegant_theme_demo",
+  "version": "1.0.0",
+  "description": "vurpress elegant theme demo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myjdevelop/vuepress_elegant_theme_demo.git"
+  },
+  "keywords": [
+    "vuepress",
+    "elegant",
+    "theme",
+    "demo"
+  ],
+  "dependencies": {
+    "element-ui": "^2.11.1",
+    "vuepress-theme-elegant": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "8.2.6",
+    "babel-plugin-component": "1.1.1",
+    "eslint": "5.0.0",
+    "eslint-plugin-vue": "5.2.2",
+    "moment": "2.24.0",
+    "node-sass": "4.12.0",
+    "sass-loader": "7.1.0",
+    "vuepress": "^1.0.2"
+  },
+  "author": "maoyuanjun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myjdevelop/vuepress_elegant_theme_demo/issues"
+  },
+  "homepage": "https://github.com/myjdevelop/vuepress_elegant_theme_demo#readme"
+}
