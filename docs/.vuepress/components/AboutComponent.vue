@@ -47,7 +47,7 @@
                     <img :src="$withBase('/wxmin_ai_qrcode.jpg')" />
                 </div>
                 <div class="item-text">
-                    <span>作品：一起来学AI</span>
+                    <span>小程序：一起来学AI</span>
                 </div>
             </div>
         </div>
