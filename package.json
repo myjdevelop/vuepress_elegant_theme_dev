@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "element-ui": "^2.11.1",
-    "vuepress-theme-elegant": "^1.1.0"
+    "vuepress-theme-elegant": "^1.2.1"
   },
   "devDependencies": {
     "babel-eslint": "8.2.6",

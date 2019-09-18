@@ -141,12 +141,4 @@
         margin-left: 20px;
     }
 
-    @media only screen and (max-width: 767px) {
-        .about-container {
-            border: 1px solid red;
-        }
-    }
-
-
-
 </style>
